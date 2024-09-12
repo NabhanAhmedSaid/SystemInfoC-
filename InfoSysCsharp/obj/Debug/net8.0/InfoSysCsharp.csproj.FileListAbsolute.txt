@@ -1,0 +1,14 @@
+/home/alan/Documents/InfoSysCsharp/bin/Debug/net8.0/InfoSysCsharp
+/home/alan/Documents/InfoSysCsharp/bin/Debug/net8.0/InfoSysCsharp.deps.json
+/home/alan/Documents/InfoSysCsharp/bin/Debug/net8.0/InfoSysCsharp.runtimeconfig.json
+/home/alan/Documents/InfoSysCsharp/bin/Debug/net8.0/InfoSysCsharp.dll
+/home/alan/Documents/InfoSysCsharp/bin/Debug/net8.0/InfoSysCsharp.pdb
+/home/alan/Documents/InfoSysCsharp/obj/Debug/net8.0/InfoSysCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/Documents/InfoSysCsharp/obj/Debug/net8.0/InfoSysCsharp.AssemblyInfoInputs.cache
+/home/alan/Documents/InfoSysCsharp/obj/Debug/net8.0/InfoSysCsharp.AssemblyInfo.cs
+/home/alan/Documents/InfoSysCsharp/obj/Debug/net8.0/InfoSysCsharp.csproj.CoreCompileInputs.cache
+/home/alan/Documents/InfoSysCsharp/obj/Debug/net8.0/InfoSysCsharp.dll
+/home/alan/Documents/InfoSysCsharp/obj/Debug/net8.0/refint/InfoSysCsharp.dll
+/home/alan/Documents/InfoSysCsharp/obj/Debug/net8.0/InfoSysCsharp.pdb
+/home/alan/Documents/InfoSysCsharp/obj/Debug/net8.0/InfoSysCsharp.genruntimeconfig.cache
+/home/alan/Documents/InfoSysCsharp/obj/Debug/net8.0/ref/InfoSysCsharp.dll
